@@ -39,3 +39,12 @@ body {
     background-color: white;
     padding: 1em;
 }
+.parrafos {
+    padding: 0 1em;
+}
+
+.footer {
+    text-align: center;
+    background: #777;
+    color: white;
+}
